@@ -1,6 +1,5 @@
-[
-    {
-        "prompts":
+{
+    "prompts":
     [
     {
         "Date": "2024-12-30",
@@ -3642,18 +3641,16 @@
         "Lesson": "Christmas",
         "Prompt": "Prompt for 2025-12-28"
     }
-]
-    },
-    {
-        "games": [
-            {
-                "date": "2025-01-18",
-                "type": "wordle",
-                "config": {
-                    "solution": "FAITH"
-                }
+],
+    "games": [
+        {
+            "date": "2025-01-18",
+            "type": "wordle",
+            "config": {
+                "solution": "FAITH"
             }
+        }
 
-        ]
-    }
-]
+    ]
+}
+
