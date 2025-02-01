@@ -3643,138 +3643,276 @@
     }
 ],
     "games": {
-        "2025-01-18": {
+        "2025-01-18": [{
             "type": "lingo",
             "config": {
                 "solution": "FAITH"
             }
-        },
-        "2025-01-19": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-19": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-20": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-20": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-21": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-21": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-22": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-22": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-23": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-23": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-24": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-24": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-25": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-25": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-26": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-26": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-27": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-27": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-28": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-28": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-29": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-29": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-30": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-30": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-01-31": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-01-31": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-01": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-01": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-02": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-02": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-03": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-03": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-04": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-04": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-05": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-05": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-06": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-06": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-07": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-07": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        },
-        "2025-02-08": {
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-08": [{
             "type": "lingo",
             "config": {
                 "solution": "GROVE"
             }
-        }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }]
     }
 }
 
