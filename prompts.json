@@ -4032,6 +4032,150 @@
                 "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
                 "solution": [3,1,1,1]
             }
+        }],
+        "2025-02-19": [{
+            "type": "lingo",
+            "config": {
+                "solution": "GROVE"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-20": [{
+            "type": "lingo",
+            "config": {
+                "solution": "GROVE"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-21": [{
+            "type": "lingo",
+            "config": {
+                "solution": "GROVE"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-22": [{
+            "type": "lingo",
+            "config": {
+                "solution": "GROVE"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-23": [{
+            "type": "lingo",
+            "config": {
+                "solution": "GROVE"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
+                "solution": [3,1,1,1]
+            }
+        }],
+        "2025-02-24": [{
+            "type": "lingo",
+            "config": {
+                "solution": "RIPEN"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.",
+                "solution": [2,27,14,15]
+            }
+        }],
+        "2025-02-25": [{
+            "type": "lingo",
+            "config": {
+                "solution": "KNOCK"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target":"Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.",
+                "solution": [2,4,15,16]
+            }
+        }],
+        "2025-02-26": [{
+            "type": "lingo",
+            "config": {
+                "solution": "SPEAK"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "But a commandment I give unto you, that ye shall declare whatsoever thing ye declare in my name, in solemnity of heart, in the spirit of meekness, in all things.",
+                "solution": [4,1,100,7]
+            }
+        }],
+        "2025-02-27": [{
+            "type": "lingo",
+            "config": {
+                "solution": "GIVEN"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "I say unto you, I would that ye should remember to retain the name written always in your hearts, that ye are not found on the left hand of God, but that ye hear and know the voice by which ye shall be called, and also, the name by which he shall call you.",
+                "solution": [3,8,5,12]
+            }
+        }],
+        "2025-02-28": [{
+            "type": "lingo",
+            "config": {
+                "solution": "GRACE"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "And may God grant, in his great fulness, that men might be brought unto repentance and good works, that they might be restored unto grace for grace, according to their works.",
+                "solution": [3,10,12,24]
+            }
+        }],
+        "2025-03-01": [{
+            "type": "lingo",
+            "config": {
+                "solution": "DEATH"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.",
+                "solution": [1,23,53,4]
+            }
+        }],
+        "2025-03-02": [{
+            "type": "lingo",
+            "config": {
+                "solution": "RISEN"
+            }
+        },{
+            "type": "golf",
+            "config": {
+                "target": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:",
+                "solution": [1,18,19,25]
+            }
         }]
     }
 }
