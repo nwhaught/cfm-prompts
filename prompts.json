@@ -724,7 +724,7 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng",
         "Lesson": "Doctrine and Covenants 20\u201322",
-        "Prompt": "Prompt for 2025-03-10"
+        "Prompt": "D&C 21:5-6 5 For his word ye shall receive, as if from mine own mouth, in all patience and faith.\n\n6 For by doing these things the gates of hell shall not prevail against you; yea, and the Lord God will disperse the powers of darkness from before you, and cause the heavens to shake for your good, and his name’s glory.\n\n what are the gates of hell? how does revelation keep them shut?"
     },
     {
         "Date": "2025-03-11",
@@ -734,7 +734,7 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng",
         "Lesson": "Doctrine and Covenants 20\u201322",
-        "Prompt": "Prompt for 2025-03-11"
+        "Prompt": "D&C 20:7 And gave unto him commandments which inspired him;\n\nwhat commandments have you received that have inspired you?"
     },
     {
         "Date": "2025-03-12",
@@ -744,7 +744,7 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng",
         "Lesson": "Doctrine and Covenants 20\u201322",
-        "Prompt": "Prompt for 2025-03-12"
+        "Prompt": "D&C 20:30-31 And we know that justification through the grace of our Lord and Savior Jesus Christ is just and true;\n\n31 And we know also, that sanctification through the grace of our Lord and Savior Jesus Christ is just and true, to all those who love and serve God with all their mights, minds, and strength. \n\nwhat's justification and sanctification? how does grace do both?"
     },
     {
         "Date": "2025-03-13",
@@ -754,7 +754,7 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng",
         "Lesson": "Doctrine and Covenants 20\u201322",
-        "Prompt": "Prompt for 2025-03-13"
+        "Prompt": "D&C 20:77 O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.\n\nwhat does it mean to remember Christ?"
     },
     {
         "Date": "2025-03-14",
@@ -764,7 +764,7 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng",
         "Lesson": "Doctrine and Covenants 20\u201322",
-        "Prompt": "Prompt for 2025-03-14"
+        "Prompt": "D&C 21:7 For thus saith the Lord God: Him have I inspired to move the cause of Zion in mighty power for good, and his diligence I know, and his prayers I have heard.\n\nWhat is \"\"the cause of Zion\"\"? How are you moving it forward?\""
     },
     {
         "Date": "2025-03-15",
@@ -774,7 +774,7 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng",
         "Lesson": "Doctrine and Covenants 20\u201322",
-        "Prompt": "Prompt for 2025-03-15"
+        "Prompt": "D&C 22:1 Behold, I say unto you that all old covenants have I caused to be done away in this thing; and this is a new and an everlasting covenant, even that which was from the beginning.\n\nWhat causes a covenant to be old, or new? Do you have any \"\"old\"\" covenants that were replaced by something better?"
     },
     {
         "Date": "2025-03-16",
@@ -784,7 +784,7 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng",
         "Lesson": "Doctrine and Covenants 20\u201322",
-        "Prompt": "Prompt for 2025-03-16"
+        "Prompt": "D&C 22:2 Wherefore, although a man should be baptized an hundred times it availeth him nothing, for you cannot enter in at the strait gate by the law of Moses, neither by your dead works.\n\nThis scripture is directed at early converts who did not want to be re-baptized. Surely most, if not all of these people felt that their previous baptisms were sincere and meaningful. Why does the Lord refer to them as \"\"dead works\"\"? Are we clinging to any \"\"dead works\"\"?"
     },
     {
         "Date": "2025-03-17",
@@ -3658,144 +3658,17 @@
     }
 ],
     "games": {
-        "2025-01-18": [{
-            "type": "lingo",
-            "config": {
-                "solution": "FAITH"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-19": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-20": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-21": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-22": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-23": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-24": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-25": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-26": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-27": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
-        "2025-01-28": [{
-            "type": "lingo",
-            "config": {
-                "solution": "GROVE"
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        },{
-            "type": "golf",
-            "config": {
-                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",
-                "solution": [3,1,1,1]
-            }
-        }],
+        "2025-01-18": [{            "type": "lingo",            "config": {                "solution": "FAITH"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-19": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-20": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-21": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-22": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-23": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-24": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-25": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-26": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-27": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
+        "2025-01-28": [{            "type": "lingo",            "config": {                "solution": "GROVE"            }        },{            "type": "golf",            "config": {                "target": "I, Nephi, having been born of goodly parents, therefore having been instructed in all the language of my father",                "solution": [3,1,1,1]            }        }],
         "2025-01-29": [{
             "type": "lingo",
             "config": {
@@ -4198,7 +4071,13 @@
     ,"2025-03-07": [{ "type": "lingo","config":{"solution": "VOICE"}},{"type": "scryptogram","config":{"target": "But to do good and to communicate forget not: for with such sacrifices God is well pleased.","hint": "Hebrews 13:16","cipher": "ERTYUIOPASDFGHJKLZXCVBNMQW"}}]
     ,"2025-03-08": [{ "type": "lingo","config":{"solution": "STEAK"}},{"type": "scryptogram","config":{"target": "I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.","hint": "1 Cor 3:2","cipher": "RTYUIOPASDFGHJKLZXCVBNMQWE"}}]
     ,"2025-03-09": [{ "type": "lingo","config":{"solution": "SHALL"}},{"type": "scryptogram","config":{"target": "For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward.","hint": "D&C 58:26","cipher": "TYUIOPASDFGHJKLZXCVBNMQWER"}}]
-
+    ,"2025-03-10": [{ "type": "lingo","config":{"solution": "POWER"}},{"type": "scryptogram","config":{"target": "and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.","hint": "D&C 1:38","cipher": "QWERTYUIOPASDFGHJKLZXCVBNM"}}]
+    ,"2025-03-11": [{ "type": "lingo","config":{"solution": "GUIDE"}},{"type": "scryptogram","config":{"target": "And I, Nephi, did go into the mount oft, and I did pray oft unto the Lord; wherefore the Lord showed unto me great things.","hint": "1 Ne 18:3","cipher": "WERTYUIOPASDFGHJKLZXCVBNMQ"}}]
+    ,"2025-03-12": [{ "type": "lingo","config":{"solution": "GRACE"}},{"type": "scryptogram","config":{"target": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.","hint": "Eph 2:8-9","cipher": "ERTYUIOPASDFGHJKLZXCVBNMQW"}}]
+    ,"2025-03-13": [{ "type": "lingo","config":{"solution": "BREAD"}},{"type": "scryptogram","config":{"target": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.","hint": "Luke 22:20","cipher": "RTYUIOPASDFGHJKLZXCVBNMQWE"}}]
+    ,"2025-03-14": [{ "type": "lingo","config":{"solution": "CAUSE"}},{"type": "scryptogram","config":{"target": "And the Lord called his people Zion, because they were of one heart and one mind, and dwelt in righteousness; and there was no poor among them.","hint": "Moses 7:18","cipher": "TYUIOPASDFGHJKLZXCVBNMQWER"}}]
+    ,"2025-03-15": [{ "type": "lingo","config":{"solution": "THING"}},{"type": "scryptogram","config":{"target": "In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.","hint": "Hebrews 8:13","cipher": "YUIOPASDFGHJKLZXCVBNMQERTW"}}]
+    ,"2025-03-16": [{ "type": "lingo","config":{"solution": "AVAIL"}},{"type": "scryptogram","config":{"target": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ,","hint": "Galatians 2:16","cipher": "UIOPASDFGHJKLZXCVBNMQWERTY"}}]
     }
 }
 
