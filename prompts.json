@@ -878,7 +878,8 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/13-doctrine-and-covenants-27-28?lang=eng",
         "Lesson": "Doctrine and Covenants 27\u201328",
-        "Prompt": "Prompt for 2025-03-24"
+        "Prompt": "D&C 27:2 \"For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory—remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.\"\n\nWhat does the phrase \"an eye single to my glory\" mean?",
+        "PromptLink": "https://youtu.be/wANaz8pqee8"
     },
     {
         "Date": "2025-03-25",
@@ -888,7 +889,8 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/13-doctrine-and-covenants-27-28?lang=eng",
         "Lesson": "Doctrine and Covenants 27\u201328",
-        "Prompt": "Prompt for 2025-03-25"
+        "Prompt": "D&C 27:15 \"Wherefore, lift up your hearts and rejoice, and gird up your loins, and take upon you my whole armor, that ye may be able to withstand the evil day, having done all, that ye may be able to stand.\"\n\nThis verse comes after a promise that the Savior will come to visit the Saints. What promised blessings give you strength and courage?",
+        "PromptLink": "https://youtu.be/vS0ayl5cI54"
     },
     {
         "Date": "2025-03-26",
@@ -898,7 +900,8 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/13-doctrine-and-covenants-27-28?lang=eng",
         "Lesson": "Doctrine and Covenants 27\u201328",
-        "Prompt": "Prompt for 2025-03-26"
+        "Prompt": "D&C 27:17 \"Taking the shield of faith wherewith ye shall be able to quench all the fiery darts of the wicked\"\n\nWhat is faith? What are firey darts? How does one stop the other?",
+        "PromptLink": "https://youtu.be/inYsozxQs9A"
     },
     {
         "Date": "2025-03-27",
@@ -4099,6 +4102,9 @@
     ,"2025-03-21": [{ "type": "lingo","config":{"solution": "WRITE"}},{"type": "scryptogram","config":{"target": "For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can do.","hint": "2 Ne 25:23","cipher": "HJLKZXCVBMQWEYIOPATUNRSFDG"}}]
     ,"2025-03-22": [{ "type": "lingo","config":{"solution": "MUSIC"}},{"type": "scryptogram","config":{"target": "And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.","hint": "Luke 11:1","cipher": "JLKZXCVBMQWEYIPATUNRSFDGHO"}}]
     ,"2025-03-23": [{ "type": "lingo","config":{"solution": "UNITY"}},{"type": "scryptogram","config":{"target": "Now it is not common that the voice of the people desireth anything contrary to that which is right;... therefore this shall ye observe and make it your law—to do your business by the voice of the people.","hint": "Mosiah 29:26","cipher": "LKZXCVBMQWEYIPATUNRSFDGHOJ"}}]
+    ,"2025-03-24": [{ "type": "lingo","config":{"solution": "WATER"}},{"type": "scryptogram","config":{"target": "For none can have power to bring it to light save it be given him of God; for God wills that it shall be done with an eye single to his glory","hint": "Mormon 8:15","cipher": "KZXCVBMQWEYIPATURNFSDGHOJL"}}]
+    ,"2025-03-25": [{ "type": "lingo","config":{"solution": "ARMOR"}},{"type": "scryptogram","config":{"target": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.","hint": "Romans 13:12","cipher": "ZCXVBMQWEYIPATURNSFDGHOJLK"}}]
+    ,"2025-03-26": [{ "type": "lingo","config":{"solution": "FIERY"}},{"type": "scryptogram","config":{"target": "Yet you should have been faithful; and he would have extended his arm and supported you against all the fiery darts of the adversary; and he would have been with you in every time of trouble.","hint": "D&C 3:8","cipher": "CXVBMQWEYIPATURNSFDGHOJLZK"}}]
     }
 }
 
