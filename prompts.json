@@ -911,7 +911,8 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/13-doctrine-and-covenants-27-28?lang=eng",
         "Lesson": "Doctrine and Covenants 27\u201328",
-        "Prompt": "Prompt for 2025-03-27"
+        "Prompt": "D&C 27:16 \"... and your feet shod with the preparation of the gospel of peace, which I have sent mine angels to commit unto you.\"\n\nThis is a reference to Eph 6:15, and many other translations of the bible express the idea of this verse as the gospel making you ready, or prepared. What does the gospel make you ready for?",
+        "PromptLink": "https://youtu.be/SfLYiM50wjM"
     },
     {
         "Date": "2025-03-28",
@@ -921,7 +922,8 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/13-doctrine-and-covenants-27-28?lang=eng",
         "Lesson": "Doctrine and Covenants 27\u201328",
-        "Prompt": "Prompt for 2025-03-28"
+        "Prompt": "D&C 28:13  \"For all things must be done in order, and by common consent in the church, by the prayer of faith.\"\n\nHow do you balance this principle with the idea that we should all be \"anxiously engaged in a good cause\"? How can we balance order and proactivity?",
+        "PromptLink": "https://youtu.be/aAgUujvedpg"
     },
     {
         "Date": "2025-03-29",
@@ -931,7 +933,8 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/13-doctrine-and-covenants-27-28?lang=eng",
         "Lesson": "Doctrine and Covenants 27\u201328",
-        "Prompt": "Prompt for 2025-03-29"
+        "Prompt": "D&C 28:11 \"And again, thou shalt take thy brother, Hiram Page, between him and thee alone, and tell him that those things which he hath written from that stone are not of me and that Satan deceiveth him;\"\n\nHiram Page had been writing \"revelations\" that he received from a stone, not at all unlike Joseph's description of a \"seer stone\". What would you have done if you were Hiram, and received this message?",
+        "PromptLink": "https://youtu.be/OmbctL2fi7s"
     },
     {
         "Date": "2025-03-30",
@@ -941,7 +944,8 @@
         "Month": "March",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/13-doctrine-and-covenants-27-28?lang=eng",
         "Lesson": "Doctrine and Covenants 27\u201328",
-        "Prompt": "Prompt for 2025-03-30"
+        "Prompt": "D&C 28:15 \"And it shall be given thee from the time thou shalt go, until the time thou shalt return, what thou shalt do.\"\n\nWhen have you felt most directed by the Spirit? How can you be directed in the next thing you do?",
+        "PromptLink": "https://youtu.be/sq-Cn2zkaRA"
     },
     {
         "Date": "2025-03-31",
@@ -4105,6 +4109,10 @@
     ,"2025-03-24": [{ "type": "lingo","config":{"solution": "WATER"}},{"type": "scryptogram","config":{"target": "For none can have power to bring it to light save it be given him of God; for God wills that it shall be done with an eye single to his glory","hint": "Mormon 8:15","cipher": "KZXCVBMQWEYIPATURNFSDGHOJL"}}]
     ,"2025-03-25": [{ "type": "lingo","config":{"solution": "ARMOR"}},{"type": "scryptogram","config":{"target": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.","hint": "Romans 13:12","cipher": "ZCXVBMQWEYIPATURNSFDGHOJLK"}}]
     ,"2025-03-26": [{ "type": "lingo","config":{"solution": "FIERY"}},{"type": "scryptogram","config":{"target": "Yet you should have been faithful; and he would have extended his arm and supported you against all the fiery darts of the adversary; and he would have been with you in every time of trouble.","hint": "D&C 3:8","cipher": "CXVBMQWEYIPATURNSFDGHOJLZK"}}]
+    ,"2025-03-27": [{ "type": "lingo","config":{"solution": "PEACE"}},{"type": "scryptogram","config":{"target": "...therefore this life became a probationary state; a time to prepare to meet God; a time to prepare for that endless state which has been spoken of by us, which is after the resurrection of the dead","hint": "Alma 12:24","cipher": "XVBMQWEIYPATURNSFDGHOJLZKC"}}]
+    ,"2025-03-28": [{ "type": "lingo","config":{"solution": "ORDER"}},{"type": "scryptogram","config":{"target": "And see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength.","hint": "Mosiah 4:27","cipher": "BVMQWEIYPATUNRSFDGHOJLZKCX"}}]
+    ,"2025-03-29": [{ "type": "lingo","config":{"solution": "STONE"}},{"type": "scryptogram","config":{"target": "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.","hint": "Matt 18:15","cipher": "VMQEWIYPATUNRSFDGHOJLZKCXB"}}]
+    ,"2025-03-30": [{ "type": "lingo","config":{"solution": "GIVEN"}},{"type": "scryptogram","config":{"target": "For behold, again I say unto you that if ye will enter in by the way, and receive the Holy Ghost, it will show unto you all things what ye should do.","hint": "2 Ne. 32:5","cipher": "MQEWIYPATUNRSFDGHOJLZKXCBV"}}]
     }
 }
 
