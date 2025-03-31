@@ -954,8 +954,8 @@
         "WeekLabel": "Mar 31 - Apr 06",
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng",
-        "Lesson": "Doctrine and Covenants 29",
-        "Prompt": "Prompt for 2025-03-31"
+        "Prompt": "D&C 29:6 \"And, as it is written—Whatsoever ye shall ask in faith, being united in prayer according to my command, ye shall receive.\"\n\nWhat have you seen happen because a large number of people united in seeking diligently for it?",
+        "PromptLink": "https://youtu.be/FhSUxHMveMU"
     },
     {
         "Date": "2025-04-01",
@@ -965,7 +965,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng",
         "Lesson": "Doctrine and Covenants 29",
-        "Prompt": "Prompt for 2025-04-01"
+        "Prompt": "D&C 29:7 \"And ye are called to bring to pass the gathering of mine elect; for mine elect hear my voice and harden not their hearts\"\n\nWhat is the point of gathering? What does that look like, especially in the digital age?",
+        "PromptLink": "https://youtu.be/Pl2xxz73nJo"
     },
     {
         "Date": "2025-04-02",
@@ -975,7 +976,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng",
         "Lesson": "Doctrine and Covenants 29",
-        "Prompt": "Prompt for 2025-04-02"
+        "Prompt": "D&C 29:14-25 Imagery of the second coming generally involves great destruction and troubles, followed by the glorious return of Christ.\n\nCan we see this same dynamic playing out in our every day lives? How can this pattern bring us peace?",
+        "PromptLink": "https://youtu.be/UKdTXrv3KYQ"
     },
     {
         "Date": "2025-04-03",
@@ -985,7 +987,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng",
         "Lesson": "Doctrine and Covenants 29",
-        "Prompt": "Prompt for 2025-04-03"
+        "Prompt": "D&C 29:17 \"And it shall come to pass,... that I will take vengeance upon the wicked, for they will not repent; for the cup of mine indignation is full; for behold, my blood shall not cleanse them if they hear me not.\"\n\nWhat does this tell us about the Atonement?",
+        "PromptLink": "https://youtu.be/PpSfa5Eya0M"
     },
     {
         "Date": "2025-04-04",
@@ -995,7 +998,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng",
         "Lesson": "Doctrine and Covenants 29",
-        "Prompt": "Prompt for 2025-04-04"
+        "Prompt": "D&C 29:31-32 \"For by the power of my Spirit created I them; yea, all things both spiritual and temporal—\n32 First spiritual, secondly temporal, which is the beginning of my work; and again, first temporal, and secondly spiritual, which is the last of my work\"\n\nCan we create circumstances in our lives following this same pattern? How?",
+        "PromptLink": "https://youtu.be/DhT0nGSgonI"
     },
     {
         "Date": "2025-04-05",
@@ -1005,7 +1009,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng",
         "Lesson": "Doctrine and Covenants 29",
-        "Prompt": "Prompt for 2025-04-05"
+        "Prompt": "D&C 29:34 \"Wherefore, verily I say unto you that all things unto me are spiritual, and not at any time have I given unto you a law which was temporal; neither any man, nor the children of men; neither Adam, your father, whom I created.\"\n\nWhat does it mean for a law to be \"spiritual\"?",
+        "PromptLink": "https://youtu.be/u_x_FX0oVs0"
     },
     {
         "Date": "2025-04-06",
@@ -1015,7 +1020,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng",
         "Lesson": "Doctrine and Covenants 29",
-        "Prompt": "Prompt for 2025-04-06"
+        "Prompt": "D&C 29:39 \"And it must needs be that the devil should tempt the children of men, or they could not be agents unto themselves; for if they never should have bitter they could not know the sweet\"\n\nWhy is bitter necessary?",
+        "PromptLink": "https://youtu.be/psOUWJ7VM4Q"
     },
     {
         "Date": "2025-04-07",
@@ -4088,20 +4094,20 @@
         }],"2025-03-03": [{ "type": "lingo","config":{"solution": "EVERY"}},{"type": "golf","config":{"target": "And God spake unto Moses, saying: Behold, I am the Lord God Almighty, and Endless is my name; for I am without beginning of days or end of years; and is not this endless?","solution": [5,1,1,3]}}]
     ,"2025-03-04": [{ "type": "lingo","config":{"solution": "GREAT"}},{"type": "golf","config":{"target": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.","solution": [2,15,3,16]}}]
     ,"2025-03-05": [{ "type": "lingo","config":{"solution": "BLEED"}},{"type": "scryptogram","config":{"target": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.","hint": "Luke 22:42","cipher": "QWERTYUIOPASDFGHJKLZXCVBNM"}}]
-    ,"2025-03-06": [{ "type": "lingo","config":{"solution": "LEARN"}},{"type": "scryptogram","config":{"target": "And now my brethren, I judge these things of you because of your peaceable walk with the children of men.","hint": "Moroni 7:4","cipher": "WERTYUIOPASDFGHJKLZXCVBNMQ"}}]
+    ,"2025-03-06": [{ "type": "lingo","config":{"solution": "LEARN"}},{"type": "scryptogram","config":{"target": "And now my brethren, I judge these things of you because of your peaceable walk with the children of men.","hint": "Moroni 7:4","cipher": "WERTYUIOPASDFGHJKLZXCBNMQV"}}]
     ,"2025-03-07": [{ "type": "lingo","config":{"solution": "VOICE"}},{"type": "scryptogram","config":{"target": "But to do good and to communicate forget not: for with such sacrifices God is well pleased.","hint": "Hebrews 13:16","cipher": "ERTYUIOPASDFGHJKLZXCVBNMQW"}}]
     ,"2025-03-08": [{ "type": "lingo","config":{"solution": "STEAK"}},{"type": "scryptogram","config":{"target": "I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.","hint": "1 Cor 3:2","cipher": "RTYUIOPASDFGHJKLZXCVBNMQWE"}}]
     ,"2025-03-09": [{ "type": "lingo","config":{"solution": "SHALL"}},{"type": "scryptogram","config":{"target": "For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward.","hint": "D&C 58:26","cipher": "TYUIOPASDFGHJKLZXCVBNMQWER"}}]
     ,"2025-03-10": [{ "type": "lingo","config":{"solution": "POWER"}},{"type": "scryptogram","config":{"target": "and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.","hint": "D&C 1:38","cipher": "QWERTYUIOPASDFGHJKLZXCVBNM"}}]
-    ,"2025-03-11": [{ "type": "lingo","config":{"solution": "GUIDE"}},{"type": "scryptogram","config":{"target": "And I, Nephi, did go into the mount oft, and I did pray oft unto the Lord; wherefore the Lord showed unto me great things.","hint": "1 Ne 18:3","cipher": "WERTYUIOPASDFGHJKLZXCVBNMQ"}}]
+    ,"2025-03-11": [{ "type": "lingo","config":{"solution": "GUIDE"}},{"type": "scryptogram","config":{"target": "And I, Nephi, did go into the mount oft, and I did pray oft unto the Lord; wherefore the Lord showed unto me great things.","hint": "1 Ne 18:3","cipher": "WERTYUIOPASDFGHJKLZXVCBNMQ"}}]
     ,"2025-03-12": [{ "type": "lingo","config":{"solution": "GRACE"}},{"type": "scryptogram","config":{"target": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.","hint": "Eph 2:8-9","cipher": "ERTYUIOPASDFGHJKLZXCVBNMQW"}}]
     ,"2025-03-13": [{ "type": "lingo","config":{"solution": "BREAD"}},{"type": "scryptogram","config":{"target": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.","hint": "Luke 22:20","cipher": "RTYUIOPASDFGHJKLZXCVBNMQWE"}}]
-    ,"2025-03-14": [{ "type": "lingo","config":{"solution": "CAUSE"}},{"type": "scryptogram","config":{"target": "And the Lord called his people Zion, because they were of one heart and one mind, and dwelt in righteousness; and there was no poor among them.","hint": "Moses 7:18","cipher": "TYUIOPASDFGHJKLZXCVBNMQWER"}}]
+    ,"2025-03-14": [{ "type": "lingo","config":{"solution": "CAUSE"}},{"type": "scryptogram","config":{"target": "And the Lord called his people Zion, because they were of one heart and one mind, and dwelt in peace; and there was no poor among them.","hint": "Moses 7:18","cipher": "TYUIOPASDFGHJKLZXCVBNMQWER"}}]
     ,"2025-03-15": [{ "type": "lingo","config":{"solution": "THING"}},{"type": "scryptogram","config":{"target": "In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.","hint": "Hebrews 8:13","cipher": "YUIOPASDFGHJKLZXCVBNMQERTW"}}]
     ,"2025-03-16": [{ "type": "lingo","config":{"solution": "AVAIL"}},{"type": "scryptogram","config":{"target": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ,","hint": "Galatians 2:16","cipher": "UIOPASDFGHJKLZXCVBNMQWERTY"}}]
     ,"2025-03-17": [{ "type": "lingo","config":{"solution": "UNDER"}},{"type": "scryptogram","config":{"target": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:","hint": "Romans 5:1","cipher": "PASFDHJLKZXGCVBNMQWERTYUIO"}}]
     ,"2025-03-18": [{ "type": "lingo","config":{"solution": "VOCAL"}},{"type": "scryptogram","config":{"target": "And he that taketh not his cross, and followeth after me, is not worthy of me.","hint": "Matt 10:38","cipher": "SFDHJLKZXGCVBMQWEYIOPATUNR"}}]
-    ,"2025-03-19": [{ "type": "lingo","config":{"solution": "ABIDE"}},{"type": "scryptogram","config":{"target": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:","hint": "2 Thes 1:4","cipher": "FDHJLKZXGCVBMQWEYIOPATUNRS"}}]
+    ,"2025-03-19": [{ "type": "lingo","config":{"solution": "ABIDE"}},{"type": "scryptogram","config":{"target": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:","hint": "2 Thes 1:4","cipher": "FDHJLKZXGCVMBQWEYIOPATUNRS"}}]
     ,"2025-03-20": [{ "type": "lingo","config":{"solution": "WORLD"}},{"type": "scryptogram","config":{"target": "...whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men...","hint": "Ether 12:4","cipher": "DHJLKZXGCVBMQWEYIOPATUNRSF"}}]
     ,"2025-03-21": [{ "type": "lingo","config":{"solution": "WRITE"}},{"type": "scryptogram","config":{"target": "For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can do.","hint": "2 Ne 25:23","cipher": "HJLKZXCVBMQWEYIOPATUNRSFDG"}}]
     ,"2025-03-22": [{ "type": "lingo","config":{"solution": "MUSIC"}},{"type": "scryptogram","config":{"target": "And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.","hint": "Luke 11:1","cipher": "JLKZXCVBMQWEYIPATUNRSFDGHO"}}]
@@ -4113,6 +4119,13 @@
     ,"2025-03-28": [{ "type": "lingo","config":{"solution": "ORDER"}},{"type": "scryptogram","config":{"target": "And see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength.","hint": "Mosiah 4:27","cipher": "BVMQWEIYPATUNRSFDGHOJLZKCX"}}]
     ,"2025-03-29": [{ "type": "lingo","config":{"solution": "STONE"}},{"type": "scryptogram","config":{"target": "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.","hint": "Matt 18:15","cipher": "VMQEWIYPATUNRSFDGHOJLZKCXB"}}]
     ,"2025-03-30": [{ "type": "lingo","config":{"solution": "GIVEN"}},{"type": "scryptogram","config":{"target": "For behold, again I say unto you that if ye will enter in by the way, and receive the Holy Ghost, it will show unto you all things what ye should do.","hint": "2 Ne. 32:5","cipher": "MQEWIYPATUNRSFDGHOJLZKXCBV"}}]
+    ,"2025-03-31": [{ "type": "lingo","config":{"solution": "BEING"}},{"type": "scryptogram","config":{"target": "Behold, this I have given unto you as a parable, and it is even as I am. I say unto you, be one; and if ye are not one ye are not mine.","hint": "D&C 38:27","cipher": "QEWIYPATUNRSFDGHOJLZKXCBVM"}}]
+    ,"2025-04-01": [{ "type": "lingo","config":{"solution": "ELECT"}},{"type": "scryptogram","config":{"target": "And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:","hint": "Isaiah 5:26","cipher": "EWIYPATUNRSFDGHOJLZKXCBVMQ"}}]
+    ,"2025-04-02": [{ "type": "lingo","config":{"solution": "IMAGE"}},{"type": "scryptogram","config":{"target": "They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.","hint": "Isaiah 11:9","cipher": "WIYPATUNRSFDGOHJLZKXCBVMQE"}}]
+    ,"2025-04-03": [{ "type": "lingo","config":{"solution": "CLEAN"}},{"type": "scryptogram","config":{"target": "And he shall come into the world to redeem his people; and he shall take upon him the sins of those who believe on his name; and these are they that shall have eternal life, and salvation cometh to none else.","hint": "Alma 11:40","cipher": "IYPATUNRSFDGOHJLZKXCVBMQEW"}}]
+    ,"2025-04-04": [{ "type": "lingo","config":{"solution": "FIRST"}},{"type": "scryptogram","config":{"target": "That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.","hint": "D&C 76:24","cipher": "YPATUNRSFDGOHJLZKXCVBMQEWI"}}]
+    ,"2025-04-05": [{ "type": "lingo","config":{"solution": "TEMPO"}},{"type": "scryptogram","config":{"target": "For he that diligently seeketh shall find; and the mysteries of God shall be unfolded unto them, by the power of the Holy Ghost, as well in these times as in times of old","hint": "1 Ne 10:19","cipher": "PATUNRSFDGOHJLZKXCVBMQEWIY"}}]
+    ,"2025-04-06": [{ "type": "lingo","config":{"solution": "SWEET"}},{"type": "scryptogram","config":{"target": "And the Lord spake unto Adam, saying: Inasmuch as thy children are conceived in sin, even so when they begin to grow up, sin conceiveth in their hearts, and they taste the bitter, that they may know to prize the good.","hint": "Moses 6:55","cipher": "TUNRFSDGOHLJZKXCVBMQEWIYPA"}}]
     }
 }
 

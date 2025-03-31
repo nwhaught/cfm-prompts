@@ -81,7 +81,7 @@ def validate_json(end_date_str):
     end_date = datetime.strptime(end_date_str, "%Y-%m-%d")
 
     # Set start date to Mar 3, 2025
-    start_date = datetime.strptime("2025-03-03", "%Y-%m-%d")
+    start_date = datetime.strptime("2025-03-05", "%Y-%m-%d")
 
     # Read the JSON file
     try:
