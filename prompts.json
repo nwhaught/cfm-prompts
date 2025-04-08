@@ -1043,7 +1043,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/15-doctrine-and-covenants-30-36?lang=eng",
         "Lesson": "Doctrine and Covenants 30\u201336",
-        "Prompt": "Prompt for 2025-04-08"
+        "Prompt": "D&C 33:1 \"Behold, I say unto you, my servants Ezra and Northrop, open ye your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit; and is a discerner of the thoughts and intents of the heart.\"\n\nHow have you experienced the word of God being \"quick and powerful\" in your life? When has scripture or revelation \"discerned the thoughts and intents\" of your heart?",
+        "PromptLink": "https://youtu.be/JXmG_jrarB0"
     },
     {
         "Date": "2025-04-09",
@@ -1053,7 +1054,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/15-doctrine-and-covenants-30-36?lang=eng",
         "Lesson": "Doctrine and Covenants 30\u201336",
-        "Prompt": "Prompt for 2025-04-09"
+        "Prompt": "D&C 30:6 \"And be you afflicted in all his afflictions, ever lifting up your heart unto me in prayer and faith, for his and your deliverance;\"\n\nWhat does it feel like to be \"afflicted in someone else's afflictions\"? How does that change the way we care about or minister to someone?",
+        "PromptLink": "https://youtu.be/dfy4txqruMw"
     },
     {
         "Date": "2025-04-10",
@@ -1063,7 +1065,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/15-doctrine-and-covenants-30-36?lang=eng",
         "Lesson": "Doctrine and Covenants 30\u201336",
-        "Prompt": "Prompt for 2025-04-10"
+        "Prompt": "D&C 31:9 \"Be patient in afflictions, revile not against those that revile. Govern your house in meekness, and be steadfast.\"\n\nWhat's the difference between being a doormat, and the principles described here?",
+        "PromptLink": "https://youtu.be/ubmnt2RxuUQ"
     },
     {
         "Date": "2025-04-11",
@@ -1073,7 +1076,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/15-doctrine-and-covenants-30-36?lang=eng",
         "Lesson": "Doctrine and Covenants 30\u201336",
-        "Prompt": "Prompt for 2025-04-11"
+        "Prompt": "D&C 32:1 \"And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.\"\n\nWhat does it mean to declare the gospel? ",
+        "PromptLink": "https://youtu.be/e-DR8Ym2JaQ"
     },
     {
         "Date": "2025-04-12",
@@ -4129,6 +4133,10 @@
     ,"2025-04-05": [{ "type": "lingo","config":{"solution": "TEMPO"}},{"type": "scryptogram","config":{"target": "For he that diligently seeketh shall find; and the mysteries of God shall be unfolded unto them, by the power of the Holy Ghost, as well in these times as in times of old","hint": "1 Ne 10:19","cipher": "PATUNRSFDGOHJLZKXCVBMQEWIY"}}]
     ,"2025-04-06": [{ "type": "lingo","config":{"solution": "SWEET"}},{"type": "scryptogram","config":{"target": "And the Lord spake unto Adam, saying: Inasmuch as thy children are conceived in sin, even so when they begin to grow up, sin conceiveth in their hearts, and they taste the bitter, that they may know to prize the good.","hint": "Moses 6:55","cipher": "TUNRFSDGOHLJZKXCVBMQEWIYPA"}}]
     ,"2025-04-07": [{ "type": "lingo","config":{"solution": "SHARE"}},{"type": "scryptogram","config":{"target": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!","hint": "Isaiah 52:7","cipher": "UNRFSGDOJHLZKXCVBMQEWIYPAT"}}]
+    ,"2025-04-08": [{ "type": "lingo","config":{"solution": "QUICK"}},{"type": "scryptogram","config":{"target": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.","hint": "Hebrews 4:12","cipher": "NRFSGDOJHLZKXCVBMQEWIYPATU"}}]
+    ,"2025-04-09": [{ "type": "lingo","config":{"solution": "CARRY"}},{"type": "scryptogram","config":{"target": "And the Lord said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;","hint": "Exodus 3:7","cipher": "RFSGDOHJLKZXCVBQMEWIYPATUN"}}]
+    ,"2025-04-10": [{ "type": "lingo","config":{"solution": "BRAVE"}},{"type": "scryptogram","config":{"target": "And he also spake unto Lemuel: O that thou mightest be like unto this valley, firm and steadfast, and immovable in keeping the commandments of the Lord!","hint": "1 Nephi 2:10","cipher": "FSDGOHJLKZXCVBQMEWIYPATUNR"}}]
+    ,"2025-04-11": [{ "type": "lingo","config":{"solution": "LOWLY"}},{"type": "scryptogram","config":{"target": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.","hint": "Matt 11:29","cipher": "SDGOHJLKZXCVBQMEWIYPATUNRF"}}]
     }
 }
 
