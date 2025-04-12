@@ -1086,8 +1086,8 @@
         "WeekLabel": "Apr 07 - Apr 13",
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/15-doctrine-and-covenants-30-36?lang=eng",
-        "Lesson": "Doctrine and Covenants 30\u201336",
-        "Prompt": "Prompt for 2025-04-12"
+        "Prompt": "D&C 33:16 \"And the Book of Mormon and the holy scriptures are given of me for your instruction; and the power of my Spirit quickeneth all things.\"\n\nHow does the Spirit \"quicken\" something? How can we tell whether or not we have the Spirit with us? ",
+        "PromptLink": "https://youtu.be/6eV502TisV8"
     },
     {
         "Date": "2025-04-13",
@@ -4137,6 +4137,7 @@
     ,"2025-04-09": [{ "type": "lingo","config":{"solution": "CARRY"}},{"type": "scryptogram","config":{"target": "And the Lord said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;","hint": "Exodus 3:7","cipher": "RFSGDOHJLKZXCVBQMEWIYPATUN"}}]
     ,"2025-04-10": [{ "type": "lingo","config":{"solution": "BRAVE"}},{"type": "scryptogram","config":{"target": "And he also spake unto Lemuel: O that thou mightest be like unto this valley, firm and steadfast, and immovable in keeping the commandments of the Lord!","hint": "1 Nephi 2:10","cipher": "FSDGOHJLKZXCVBQMEWIYPATUNR"}}]
     ,"2025-04-11": [{ "type": "lingo","config":{"solution": "LOWLY"}},{"type": "scryptogram","config":{"target": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.","hint": "Matt 11:29","cipher": "SDGOHJLKZXCVBQMEWIYPATUNRF"}}]
+    ,"2025-04-12": [{ "type": "lingo","config":{"solution": "ALIVE"}},{"type": "scryptogram","config":{"target": "Thou, which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.","hint": "Psalm 71:20","cipher": "DGOHJLKZXCVBQMEWIYPATUNRFS"}}]
     }
 }
 
