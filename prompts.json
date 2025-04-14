@@ -1107,7 +1107,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng",
         "Lesson": "Doctrine and Covenants Easter",
-        "Prompt": "Prompt for 2025-04-14"
+        "Prompt": "D&C 76:20 \"And we beheld the glory of the Son, on the right hand of the Father, and received of his fulness;\"\n\nWhat is the glory of the Son?",
+        "PromptLink": "https://youtu.be/a8GzlvKiXNA"
     },
     {
         "Date": "2025-04-15",
@@ -1117,7 +1118,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng",
         "Lesson": "Doctrine and Covenants Easter",
-        "Prompt": "Prompt for 2025-04-15"
+        "Prompt": "D&C 29:5 \"Lift up your hearts and be glad, for I am in your midst, and am your advocate with the Father; and it is his good will to give you the kingdom.\"\n\nWhat does it mean that Christ is our advocate with the Father? What does it mean for us, if we're supposed to take Christ's name upon ourselves?",
+        "PromptLink": "https://youtu.be/MiTfAh3SL7w"
     },
     {
         "Date": "2025-04-16",
@@ -1127,7 +1129,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng",
         "Lesson": "Doctrine and Covenants Easter",
-        "Prompt": "Prompt for 2025-04-16"
+        "Prompt": "Isaiah 53:3 \"He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.\"\n\nWhen do we do this? How can we fix our attitude? ",
+        "PromptLink": "https://youtu.be/kL1Lo2oKc6Q"
     },
     {
         "Date": "2025-04-17",
@@ -4139,6 +4142,9 @@
     ,"2025-04-11": [{ "type": "lingo","config":{"solution": "LOWLY"}},{"type": "scryptogram","config":{"target": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.","hint": "Matt 11:29","cipher": "SDGOHJLKZXCVBQMEWIYPATUNRF"}}]
     ,"2025-04-12": [{ "type": "lingo","config":{"solution": "ALIVE"}},{"type": "scryptogram","config":{"target": "Thou, which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.","hint": "Psalm 71:20","cipher": "DGOHJLKZXCVBQMEWIYPATUNRFS"}}]
     ,"2025-04-13": [{ "type": "lingo","config":{"solution": "FORGE"}},{"type": "scryptogram","config":{"target": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.","hint": "Luke 1:17","cipher": "GOHJLKZXCVBMQETWIYPUANRFSD"}}]
+    ,"2025-04-14": [{ "type": "lingo","config":{"solution": "GLORY"}},{"type": "scryptogram","config":{"target": "For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man.","hint": "Mos 1:39","cipher": "GSMYVLEOTQZCBXKUIJDWRAPHFN"}}]
+    ,"2025-04-15": [{ "type": "lingo","config":{"solution": "JUDGE"}},{"type": "scryptogram","config":{"target": "For he hath answered the ends of the law, and he claimeth all those who have faith in him; and they who have faith in him will cleave unto every good thing;","hint": "Mor 7:28","cipher": "XQKGPITRAVSNLFZJWUCMHYDEOB"}}]
+    ,"2025-04-16": [{ "type": "lingo","config":{"solution": "GRIEF"}},{"type": "scryptogram","config":{"target": "Who did no sin, neither was guile found in his mouth: Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:","hint": "1 Pet 2:22-23","cipher": "QOJGRUFEXCBHKAVZWYTMNLSDIP"}}]
     }
 }
 
