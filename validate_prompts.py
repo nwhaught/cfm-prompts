@@ -13,11 +13,47 @@ def check_prompt_format(prompt_obj):
         return True  # No Prompt property to check
 
     prompt_text = prompt_obj['Prompt']
-
+    prompt_date = prompt_obj['Date']
     # Pattern to match "Prompt for YYYY-MM-DD"
     pattern = r"^Prompt for \d{4}-\d{2}-\d{2}$"
     if re.match(pattern, prompt_text):
         print(f"Error: Invalid prompt format: '{prompt_text}'")
+        return False
+
+    if 'Lesson' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a Lesson title")
+        return False
+
+    if 'WeekDay' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a WeekDay")
+        return False
+
+    if 'WeekNum' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a WeekNum")
+        return False
+
+    if 'WeekLabel' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a WeekLabel")
+        return False
+
+    if 'Month' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a Month")
+        return False
+
+    if 'Link' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a Link")
+        return False
+
+    if 'Lesson' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a Lesson")
+        return False
+
+    if 'Prompt' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a Prompt")
+        return False
+
+    if 'PromptLink' not in prompt_obj:
+        print(f"[{prompt_date}] is missing a PromptLink")
         return False
 
     return True
