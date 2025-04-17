@@ -1142,7 +1142,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng",
         "Lesson": "Doctrine and Covenants Easter",
-        "Prompt": "Prompt for 2025-04-17"
+        "Prompt": "Alma 7:12 \"And he will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities.\"\n\nChrist knows all of our infirmities. How can we be like him?",
+        "PromptLink": "https://youtu.be/Ygr5GgkkHcc"
     },
     {
         "Date": "2025-04-18",
@@ -1152,7 +1153,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng",
         "Lesson": "Doctrine and Covenants Easter",
-        "Prompt": "Prompt for 2025-04-18"
+        "Prompt": "Alma 36:3 \"...I do know that whosoever shall put their trust in God shall be supported in their trials, and their troubles, and their afflictions, and shall be lifted up at the last day.\"\n\nWhat does it mean to put our trust in God? How does that bring us support?",
+        "PromptLink": "https://youtu.be/SPxMvSK-UgM"
     },
     {
         "Date": "2025-04-19",
@@ -1162,7 +1164,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng",
         "Lesson": "Doctrine and Covenants Easter",
-        "Prompt": "Prompt for 2025-04-19"
+        "Prompt": "D&C 18:12-13 \"And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance. 13 And how great is his joy in the soul that repenteth!\"\n\nWhat does it mean to repent? Why does it bring joy to God?",
+        "PromptLink": "https://youtu.be/EZedDpmIYng"
     },
     {
         "Date": "2025-04-20",
@@ -1172,7 +1175,8 @@
         "Month": "April",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng",
         "Lesson": "Doctrine and Covenants Easter",
-        "Prompt": "Prompt for 2025-04-20"
+        "Prompt": "Ether 12:27 \"...my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.\" \n\nChrist is descrbing his grace for us. How can we be like Him in this aspect?",
+        "PromptLink": "https://youtu.be/d3sIxVivAN0"
     },
     {
         "Date": "2025-04-21",
@@ -4147,6 +4151,10 @@
     ,"2025-04-14": [{ "type": "lingo","config":{"solution": "GLORY"}},{"type": "scryptogram","config":{"target": "For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man.","hint": "Mos 1:39","cipher": "GSMYVLEOTQZCBXKUIJDWRAPHFN"}}]
     ,"2025-04-15": [{ "type": "lingo","config":{"solution": "JUDGE"}},{"type": "scryptogram","config":{"target": "For he hath answered the ends of the law, and he claimeth all those who have faith in him; and they who have faith in him will cleave unto every good thing;","hint": "Mor 7:28","cipher": "XQKGPITRAVSNLFZJWUCMHYDEOB"}}]
     ,"2025-04-16": [{ "type": "lingo","config":{"solution": "GRIEF"}},{"type": "scryptogram","config":{"target": "Who did no sin, neither was guile found in his mouth: Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:","hint": "1 Pet 2:22-23","cipher": "QOJGRUFEXCBHKAVZWYTMNLSDIP"}}]
+    ,"2025-04-17": [{ "type": "lingo","config":{"solution": "LOOSE"}},{"type": "scryptogram","config":{"target": "For in that he himself hath suffered being tempted, he is able to succour them that are tempted.","hint": "Heb 2:18","cipher": "LPBVIUXGKDJONRSHMWEYFQTZAC"}}]
+    ,"2025-04-18": [{ "type": "lingo","config":{"solution": "TRUST"}},{"type": "scryptogram","config":{"target": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him. He also shall be my salvation: for an hypocrite shall not come before him.","hint": "Job 15:16","cipher": "GNJSVBFQRDEWUTLXIACHOZKPMY"}}]
+    ,"2025-04-19": [{ "type": "lingo","config":{"solution": "RISEN"}},{"type": "scryptogram","config":{"target": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.","hint": "Luke 15:7","cipher": "HLZPUAYKEIFSQXNOWGTDMRCJBV"}}]
+    ,"2025-04-20": [{ "type": "lingo","config":{"solution": "AGAIN"}},{"type": "scryptogram","config":{"target": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.","hint": "2 Cor 12:9","cipher": "CNAIGKVMFHEJWUQTZLXDPYSOBR"}}]
     }
 }
 
