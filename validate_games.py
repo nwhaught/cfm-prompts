@@ -30,8 +30,8 @@ def is_valid_scryptogram_target(target, all_targets):
     # Check if target contains any words longer than 12 characters
     words = re.findall(r'\w+', target)
     for word in words:
-        if len(word) > 12:
-            return False, f"Scryptogram target contains a word longer than 12 characters: '{word}'."
+        if len(word) > 13:
+            return False, f"Scryptogram target contains a word longer than 13 characters: '{word}'."
 
     # Check for uniqueness
     if target in all_targets:
