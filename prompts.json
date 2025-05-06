@@ -1327,7 +1327,8 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/19-doctrine-and-covenants-45?lang=eng",
         "Lesson": "Doctrine and Covenants 45",
-        "Prompt": "Prompt for 2025-05-05"
+        "Prompt": "D&C 45:4-5 \"Saying: Father, behold the sufferings and death of him who did no sin, in whom thou wast well pleased; behold the blood of thy Son which was shed, the blood of him whom thou gavest that thyself might be glorified;5 Wherefore, Father, spare these my brethren that believe on my name, that they may come unto me and have everlasting life.\"\n\nHow do we take Christ's name upon us?",
+        "PromptLink": "https://youtu.be/ZgDLCQ1knvY"
     },
     {
         "Date": "2025-05-06",
@@ -1337,7 +1338,8 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/19-doctrine-and-covenants-45?lang=eng",
         "Lesson": "Doctrine and Covenants 45",
-        "Prompt": "Prompt for 2025-05-06"
+        "Prompt": "D&C 45:9 \"And even so I have sent mine everlasting covenant into the world, to be a light to the world, and to be a standard for my people, and for the Gentiles to seek to it, and to be a messenger before my face to prepare the way before me.\"\n\nThe items listed here are all purposes of the gospel. How does it act as a messenger preparing the way before Christ?",
+        "PromptLink": "https://youtu.be/xsC5QPO9dlM"
     },
     {
         "Date": "2025-05-07",
@@ -4170,6 +4172,9 @@
     ,"2025-05-02": [{ "type": "lingo","config":{"solution": "LOINS"}},{"type": "scryptogram","config":{"target": "Wherefore, lift up your hearts and rejoice, and gird up your loins, and take upon you my whole armor, that ye may be able to withstand the evil day, having done all, that ye may be able to stand.","hint": "D&C 27:15","cipher": "REKPHVQTLZBNFXGCWJIYMASDOU"}}]
     ,"2025-05-03": [{ "type": "lingo","config":{"solution": "ENDOW"}},{"type": "scryptogram","config":{"target": "Verily, verily, I say unto you, I will impart unto you of my Spirit, which shall enlighten your mind, which shall fill your soul with joy;","hint": "D&C 11:13","cipher": "QFHBKANMUZLDVIPRWYCXJOETSG"}}]
     ,"2025-05-04": [{ "type": "lingo","config":{"solution": "ANGEL"}},{"type": "scryptogram","config":{"target": "For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.","hint": "2 Pet 1:21","cipher": "HPWVFLDRJBGXKQUCAIZMENSOTY"}}]
+    ,"2025-05-05": [{ "type": "lingo","config":{"solution": "DEATH"}},{"type": "scryptogram","config":{"target": "It is a faithful saying: For if we be dead with him, we shall also live with him: If we suffer, we shall also reign with him: if we deny him, he also will deny us:","hint": "2 Tim 2:11-12","cipher": "GJHPAVZNXUMCOITWKLYQDFERBS"}}]
+    ,"2025-05-06": [{ "type": "lingo","config":{"solution": "LIGHT"}},{"type": "scryptogram","config":{"target": "For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.","hint": "Matt 11:10","cipher": "PLYMZJNIODBSVCWQRGUHKXTFAE"}}]
+
     }
 }
 
