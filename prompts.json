@@ -1349,7 +1349,8 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/19-doctrine-and-covenants-45?lang=eng",
         "Lesson": "Doctrine and Covenants 45",
-        "Prompt": "Prompt for 2025-05-07"
+        "Prompt": "D&C 45:32 \"But my disciples shall stand in holy places, and shall not be moved; but among the wicked, men shall lift up their voices and curse God and die.\"\n\nWhat does it look like, to \"stand in holy places, and not be moved\"?",
+        "PromptLink": "https://youtu.be/Bxu4unGA3cA"
     },
     {
         "Date": "2025-05-08",
@@ -1359,7 +1360,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/19-doctrine-and-covenants-45?lang=eng",
         "Lesson": "Doctrine and Covenants 45",
-        "Prompt": "Prompt for 2025-05-08"
+        "Prompt": "D&C 45:35-37 \"And I said unto them: Be not troubled, for, when all these things shall come to pass, ye may know that the promises which have been made unto you shall be fulfilled.\n36 And when the light shall begin to break forth, it shall be with them like unto a parable which I will show you—\n37 Ye look and behold the fig trees, and ye see them with your eyes, and ye say when they begin to shoot forth, and their leaves are yet tender, that summer is now nigh at hand;\"\n\nWhat does it mean to be surrounded by troubles? How can we apply this scripture about the second coming, today?","PromptLink": "https://youtu.be/0akjjuVoKns"
     },
     {
         "Date": "2025-05-09",
@@ -1369,7 +1370,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/19-doctrine-and-covenants-45?lang=eng",
         "Lesson": "Doctrine and Covenants 45",
-        "Prompt": "Prompt for 2025-05-09"
+        "Prompt": "D&C 45:65-66 \"And with one heart and with one mind, gather up your riches that ye may purchase an inheritance which shall hereafter be appointed unto you.\n66 And it shall be called the New Jerusalem, a land of peace, a city of refuge, a place of safety for the saints of the Most High God;\"\n\nThis scripture refers to a literal purchase of  land, but how are we purchasing the land of OUR inheritance? What are the riches we use to purchase the place of OUR New Jerusalem?","PromptLink": "https://youtu.be/4Z41534fc-0"
     },
     {
         "Date": "2025-05-10",
@@ -1379,7 +1380,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/19-doctrine-and-covenants-45?lang=eng",
         "Lesson": "Doctrine and Covenants 45",
-        "Prompt": "Prompt for 2025-05-10"
+        "Prompt": "D&C 45:67 \"And the glory of the Lord shall be there, and the terror of the Lord also shall be there, insomuch that the wicked will not come unto it, and it shall be called Zion.\"\n\nWhat is the glory of the Lord? What is the terror of the Lord? How are they related?","PromptLink": "https://youtu.be/wXa-dV6V8Rc"
     },
     {
         "Date": "2025-05-11",
@@ -1389,7 +1390,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/19-doctrine-and-covenants-45?lang=eng",
         "Lesson": "Doctrine and Covenants 45",
-        "Prompt": "Prompt for 2025-05-11"
+        "Prompt": "D&C 45:26 \"And in that day shall be heard of wars and rumors of wars, and the whole earth shall be in commotion, and men’s hearts shall fail them, and they shall say that Christ delayeth his coming until the end of the earth.\"\n\nIs there any area of your life where you feel like this?","PromptLink": "https://youtu.be/jhhFDCyfGRA"
     },
     {
         "Date": "2025-05-12",
@@ -4174,7 +4175,11 @@
     ,"2025-05-04": [{ "type": "lingo","config":{"solution": "ANGEL"}},{"type": "scryptogram","config":{"target": "For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.","hint": "2 Pet 1:21","cipher": "HPWVFLDRJBGXKQUCAIZMENSOTY"}}]
     ,"2025-05-05": [{ "type": "lingo","config":{"solution": "DEATH"}},{"type": "scryptogram","config":{"target": "It is a faithful saying: For if we be dead with him, we shall also live with him: If we suffer, we shall also reign with him: if we deny him, he also will deny us:","hint": "2 Tim 2:11-12","cipher": "GJHPAVZNXUMCOITWKLYQDFERBS"}}]
     ,"2025-05-06": [{ "type": "lingo","config":{"solution": "LIGHT"}},{"type": "scryptogram","config":{"target": "For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.","hint": "Matt 11:10","cipher": "PLYMZJNIODBSVCWQRGUHKXTFAE"}}]
-
+    ,"2025-05-07": [{ "type": "lingo","config":{"solution": "MOVED"}},{"type": "scryptogram","config":{"target": "yea, when all his hail and his mighty storm shall beat upon you, it shall have no power over you to drag you down to the gulf of misery and endless wo, because of the rock upon which ye are built, which is a sure foundation, a foundation whereon if men build they cannot fall.","hint": "Hel 5:12","cipher": "XYPCLSFRVOTIADZJWMQUHNEGKB"}}]
+    ,"2025-05-08": [{ "type": "lingo","config":{"solution": "SHOOT"}},{"type": "scryptogram","config":{"target": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.","hint": "Matt 24:6","cipher": "NDWZKPBJYELUHGFSVQRMXAITCO"}}]
+    ,"2025-05-09": [{ "type": "lingo","config":{"solution": "PEARL"}},{"type": "scryptogram","config":{"target": "And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.","hint": "Isa 4:6","cipher": "SYOHZWXEUFCKABRVTDINGQPJML"}}]
+    ,"2025-05-10": [{ "type": "lingo","config":{"solution": "SCARE"}},{"type": "scryptogram","config":{"target": "And the day shall come when the nations of the earth shall tremble because of her, and shall fear because of her terrible ones. The Lord hath spoken it. Amen.","hint": "D&C 64:43","cipher": "UFICVGMDHWTKXYQZJPLOEBSRNA"}}]
+    ,"2025-05-11": [{ "type": "lingo","config":{"solution": "RUMOR"}},{"type": "scryptogram","config":{"target": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken. And then shall they see the Son of man coming in a cloud with power and great glory.","hint": "Luke 21:26-27","cipher": "QLZXTIDCKFPVNUJWHBAMYOESGR"}}]
     }
 }
 
