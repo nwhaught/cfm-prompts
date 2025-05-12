@@ -1400,7 +1400,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/20-doctrine-and-covenants-46-48?lang=eng",
         "Lesson": "Doctrine and Covenants 46\u201348",
-        "Prompt": "Prompt for 2025-05-12"
+        "Prompt": "D&C 46:8 \"Wherefore, beware lest ye are deceived; and that ye may not be deceived seek ye earnestly the best gifts, always remembering for what they are given;\"\n\nWhy does God warn us about deception when discussing spiritual gifts?","PromptLink": "https://youtu.be/YC8t4X_KscI"
     },
     {
         "Date": "2025-05-13",
@@ -1410,7 +1410,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/20-doctrine-and-covenants-46-48?lang=eng",
         "Lesson": "Doctrine and Covenants 46\u201348",
-        "Prompt": "Prompt for 2025-05-13"
+        "Prompt": "D&C 46:30-32 \"He that asketh in the Spirit asketh according to the will of God; wherefore it is done even as he asketh.\n31 And again, I say unto you, all things must be done in the name of Christ, whatsoever you do in the Spirit;\n32 And ye must give thanks unto God in the Spirit for whatsoever blessing ye are blessed with.\"\n\nHow do we do these things  \"in the Spirit\"?","PromptLink": "https://youtu.be/DHBKc2PJdqk"
     },
     {
         "Date": "2025-05-14",
@@ -1420,7 +1420,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/20-doctrine-and-covenants-46-48?lang=eng",
         "Lesson": "Doctrine and Covenants 46\u201348",
-        "Prompt": "Prompt for 2025-05-14"
+        "Prompt": "D&C 47:1 \"Behold, it is expedient in me that my servant John should write and keep a regular history, and assist you, my servant Joseph, in transcribing all things which shall be given you, until he is called to further duties.\"\n\nWhat is the importance of writing or keeping a history?","PromptLink": "https://youtu.be/GDmO0DCbVr8"
     },
     {
         "Date": "2025-05-15",
@@ -1430,7 +1430,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/20-doctrine-and-covenants-46-48?lang=eng",
         "Lesson": "Doctrine and Covenants 46\u201348",
-        "Prompt": "Prompt for 2025-05-15"
+        "Prompt": "D&C 46:9 \"For verily I say unto you, they are given for the benefit of those who love me and keep all my commandments, and him that seeketh so to do; that all may be benefited that seek or that ask of me, that ask and not for a sign that they may consume it upon their lusts.\"\n\nHow might people mistakenly seek spiritual gifts as \"signs\"?","PromptLink": "https://youtu.be/47DXeEMrP9M"
     },
     {
         "Date": "2025-05-16",
@@ -1440,7 +1440,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/20-doctrine-and-covenants-46-48?lang=eng",
         "Lesson": "Doctrine and Covenants 46\u201348",
-        "Prompt": "Prompt for 2025-05-16"
+        "Prompt": "D&C 46:3 \"Nevertheless ye are commanded never to cast any one out from your public meetings, which are held before the world.\"\n\nHow can we cultivate this feeling of welcoming others?","PromptLink": "https://youtu.be/qMMXFWpp6f0"
     },
     {
         "Date": "2025-05-17",
@@ -1450,7 +1450,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/20-doctrine-and-covenants-46-48?lang=eng",
         "Lesson": "Doctrine and Covenants 46\u201348",
-        "Prompt": "Prompt for 2025-05-17"
+        "Prompt": "D&C 46:19-21 \"And again, to some it is given to have faith to be healed;\n20 And to others it is given to have faith to heal.\n21 And again, to some is given the working of miracles;\"\n\nWhen have you experienced these gifts? Who do you know that has them?","PromptLink": "https://youtu.be/wSt6Rk0kWrU"
     },
     {
         "Date": "2025-05-18",
@@ -1460,7 +1460,7 @@
         "Month": "May",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/20-doctrine-and-covenants-46-48?lang=eng",
         "Lesson": "Doctrine and Covenants 46\u201348",
-        "Prompt": "Prompt for 2025-05-18"
+        "Prompt": "D&C 46 The manifestation of spiritual gifts are commonly conceived of as uncommon or miraculous, but in reality they are simply blessings that we recieve when the Spirit is present. \n\nWhat spiritual gift have you seen most recently manifested?","PromptLink": "https://youtu.be/PbsOrDovY70"
     },
     {
         "Date": "2025-05-19",
@@ -4180,6 +4180,13 @@
     ,"2025-05-09": [{ "type": "lingo","config":{"solution": "PEARL"}},{"type": "scryptogram","config":{"target": "And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.","hint": "Isa 4:6","cipher": "SYOHZWXEUFCKABRVTDINGQPJML"}}]
     ,"2025-05-10": [{ "type": "lingo","config":{"solution": "SCARE"}},{"type": "scryptogram","config":{"target": "And the day shall come when the nations of the earth shall tremble because of her, and shall fear because of her terrible ones. The Lord hath spoken it. Amen.","hint": "D&C 64:43","cipher": "UFICVGMDHWTKXYQZJPLOEBSRNA"}}]
     ,"2025-05-11": [{ "type": "lingo","config":{"solution": "RUMOR"}},{"type": "scryptogram","config":{"target": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken. And then shall they see the Son of man coming in a cloud with power and great glory.","hint": "Luke 21:26-27","cipher": "QLZXTIDCKFPVNUJWHBAMYOESGR"}}]
+    ,"2025-05-12": [{ "type": "lingo","config":{"solution": "SUPER"}},{"type": "scryptogram","config":{"target": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way.","hint": "1 Cor 12:31","cipher": "VZHCDPIYELWRQUXATNKJFBGMOS"}}]
+    ,"2025-05-13": [{ "type": "lingo","config":{"solution": "THANK"}},{"type": "scryptogram","config":{"target": "and they did not multiply many words, for it was given unto them what they should pray, and they were filled with desire.","hint": "3 Ne 19:24","cipher": "FKUIMVZNCXHWEPQSTYRLBOADJG"}}]
+    ,"2025-05-14": [{ "type": "lingo","config":{"solution": "DAILY"}},{"type": "scryptogram","config":{"target": "And a book of remembrance was kept, in the which was recorded, in the language of Adam, for it was given unto as many as called upon God to write by the spirit of inspiration;","hint": "Mos 6:5","cipher": "ZIMTYXKQWHPJLRADFCBGVEUSNO"}}]
+    ,"2025-05-15": [{ "type": "lingo","config":{"solution": "FAVOR"}},{"type": "scryptogram","config":{"target": "Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.","hint": "James 4:3","cipher": "PTAJBMDCLXWRSUFYKOGZIQNVHE"}}]
+    ,"2025-05-16": [{ "type": "lingo","config":{"solution": "GREET"}},{"type": "scryptogram","config":{"target": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.","hint": "Luke 22:32","cipher": "JFDABCENRUTYZPXQSKIOVLHGMW"}}]
+    ,"2025-05-17": [{ "type": "lingo","config":{"solution": "WHOLE"}},{"type": "scryptogram","config":{"target": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.","hint": "Matt 4:23","cipher": "VRNMTQYJWKHUPXBOIALZEGSDFC"}}]
+    ,"2025-05-18": [{ "type": "lingo","config":{"solution": "BLESS"}},{"type": "scryptogram","config":{"target": "And now, O all ye that have imagined up unto yourselves a god who can do no miracles, I would ask of you, have all these things passed, of which I have spoken? Has the end come yet? Behold I say unto you, Nay; and God has not ceased to be a God of miracles.","hint": "Morm 9:15","cipher": "WLJZHPMQAXSOFRDVTINBKGCYUE"}}]
     }
 }
 
