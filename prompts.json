@@ -2930,7 +2930,7 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/41-doctrine-and-covenants-111-114?lang=eng",
         "Lesson": "Doctrine and Covenants 111-114",
-        "Prompt": "D&C 112:7 Therefore, gird up thy loins for the work. Let thy feet be shod also, for thou art chosen, and thy path lieth among the mountains, and among many nations./n/nWhat does it mean for our paths to \"lie among the mountains\"? How can we gird our loins and shoe our feet for that journey?",
+        "Prompt": "D&C 112:7 Therefore, gird up thy loins for the work. Let thy feet be shod also, for thou art chosen, and thy path lieth among the mountains, and among many nations.\n\nWhat does it mean for our paths to \"lie among the mountains\"? How can we gird our loins and shoe our feet for that journey?",
         "PromptLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
@@ -4188,7 +4188,7 @@
     ,"2025-05-16": [{ "type": "lingo","config":{"solution": "GREET"}},{"type": "scryptogram","config":{"target": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.","hint": "Luke 22:32","cipher": "JFDABCENRUTYZPXQSKIOVLHGMW"}}]
     ,"2025-05-17": [{ "type": "lingo","config":{"solution": "WHOLE"}},{"type": "scryptogram","config":{"target": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.","hint": "Matt 4:23","cipher": "VRNMTQYJWKHUPXBOIALZEGSDFC"}}]
     ,"2025-05-18": [{ "type": "lingo","config":{"solution": "BLESS"}},{"type": "scryptogram","config":{"target": "And now, O all ye that have imagined up unto yourselves a god who can do no miracles, I would ask of you, have all these things passed, of which I have spoken? Has the end come yet? Behold I say unto you, Nay; and God has not ceased to be a God of miracles.","hint": "Morm 9:15","cipher": "WLJZHPMQAXSOFRDVTINBKGCYUE"}}]
-    ,"2025-10-12": [{ "type": "lingo","config":{"solution": "MOUNT"}},{"type": "scryptogram","config":{"target": "14 Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; 15 And your feet shod with the preparation of the gospel of peace;","hint": "Eph 6:14-15","cipher": "MXGAUTLYZPQWRDVESKFJNHOBCI"}}]
+    ,"2025-10-12": [{ "type": "lingo","config":{"solution": "MOUNT"}},{"type": "scryptogram","config":{"target": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace;","hint": "Eph 6:14-15","cipher": "MXGAUTLYZPQWRDVESKFJNHOBCI"}}]
 
     }
 }
