@@ -2941,7 +2941,8 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/42-doctrine-and-covenants-115-120?lang=eng",
         "Lesson": "Doctrine and Covenants 115-120",
-        "Prompt": "Prompt for 2025-10-13"
+        "Prompt": "D&C 115:4 For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints\n\nWhy did God choose this name for the church?",
+        "PromptLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
         "Date": "2025-10-14",
@@ -4189,7 +4190,7 @@
     ,"2025-05-17": [{ "type": "lingo","config":{"solution": "WHOLE"}},{"type": "scryptogram","config":{"target": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.","hint": "Matt 4:23","cipher": "VRNMTQYJWKHUPXBOIALZEGSDFC"}}]
     ,"2025-05-18": [{ "type": "lingo","config":{"solution": "BLESS"}},{"type": "scryptogram","config":{"target": "And now, O all ye that have imagined up unto yourselves a god who can do no miracles, I would ask of you, have all these things passed, of which I have spoken? Has the end come yet? Behold I say unto you, Nay; and God has not ceased to be a God of miracles.","hint": "Morm 9:15","cipher": "WLJZHPMQAXSOFRDVTINBKGCYUE"}}]
     ,"2025-10-12": [{ "type": "lingo","config":{"solution": "MOUNT"}},{"type": "scryptogram","config":{"target": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace;","hint": "Eph 6:14-15","cipher": "MXGAUTLYZPQWRDVESKFJNHOBCI"}}]
-
+    ,"2025-10-13": [{ "type": "lingo","config":{"solution": "SAINT"}},{"type": "scryptogram","config":{"target": "yea, all those who were true believers in Christ took upon them, gladly, the name of Christ, or Christians as they were called, because of their belief in Christ who should come.","hint": "Alma 46:15","cipher": "KMZSWCJEXNIBDOPTUFYHRLGQVA"}}]
     }
 }
 
