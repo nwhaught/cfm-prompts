@@ -3012,7 +3012,8 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng",
         "Lesson": "Doctrine and Covenants121-123",
-        "Prompt": "Prompt for 2025-10-20"
+        "Prompt": "D&C 121:7-8 My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment; And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.\n\nWhat does it mean to \"endure it well\"? How is that different from just enduring?",
+        "PromptLink": ""
     },
     {
         "Date": "2025-10-21",
@@ -3022,7 +3023,7 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng",
         "Lesson": "Doctrine and Covenants121-123",
-        "Prompt": "Prompt for 2025-10-21"
+        "Prompt": "D&C 121:34-35 Behold, there are many called, but few are chosen. And why are they not chosen? Because their hearts are set so much upon the things of this world, and aspire to the honors of men\n\n        Where is your heart set today? What \"honors of men\" are you tempted to pursue instead of God's approval?","PromptLink": ""
     },
     {
         "Date": "2025-10-22",
@@ -3032,7 +3033,7 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng",
         "Lesson": "Doctrine and Covenants121-123",
-        "Prompt": "Prompt for 2025-10-22"
+        "Prompt": "D&C 121:37 That they may be conferred upon us, it is true; but when we undertake to cover our sins, or to gratify our pride, our vain ambition, or to exercise control or dominion or compulsion upon the souls of the children of men, in any degree of unrighteousness, behold, the heavens withdraw themselves; the Spirit of the Lord is grieved;\n\nHow do we try to \"exercise control or dominion\" over others in subtle ways? When have you felt the heavens withdraw?","PromptLink": ""
     },
     {
         "Date": "2025-10-23",
@@ -3042,7 +3043,7 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng",
         "Lesson": "Doctrine and Covenants121-123",
-        "Prompt": "Prompt for 2025-10-23"
+        "Prompt": "D&C 123:17 Therefore, dearly beloved brethren, let us cheerfully do all things that lie in our power; and then may we stand still, with the utmost assurance, to see the salvation of God, and for his arm to be revealed.\n\nWhat does it mean to do something \"cheerfully\"? How is that different from doing it grudgingly or even willingly? When have you been able to stand still and watch God work after you'd done your part?","PromptLink": ""
     },
     {
         "Date": "2025-10-24",
@@ -3052,7 +3053,7 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng",
         "Lesson": "Doctrine and Covenants121-123",
-        "Prompt": "Prompt for 2025-10-24"
+        "Prompt": "D&C 122:7 And if thou shouldst be cast into the pit, or into the hands of murderers, and the sentence of death passed upon thee; if thou be cast into the deep; if the billowing surge conspire against thee; if fierce winds become thine enemy; if the heavens gather blackness, and all the elements combine to hedge up the way; and above all, if the very jaws of hell shall gape open the mouth wide after thee, know thou, my son, that all these things shall give thee experience, and shall be for thy good.\n\nWhat experiences in your life have you looked back on and recognized as being \"for your good\"? What current trials might you someday view this way?","PromptLink": ""
     },
     {
         "Date": "2025-10-25",
@@ -3062,7 +3063,7 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng",
         "Lesson": "Doctrine and Covenants121-123",
-        "Prompt": "Prompt for 2025-10-25"
+        "Prompt": "D&C 122:8 The Son of Man hath descended below them all. Art thou greater than he?\n\nHow does Christ's suffering give us perspective on our own? When does comparison to Christ's experience bring comfort, and when does it feel dismissive of our pain?","PromptLink": ""
     },
     {
         "Date": "2025-10-26",
@@ -3072,7 +3073,7 @@
         "Month": "October",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng",
         "Lesson": "Doctrine and Covenants121-123",
-        "Prompt": "Prompt for 2025-10-26"
+        "Prompt": "D&C 121:46 The Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever.\n\nWhat does \"dominion without compulsory means\" look like? How do we build influence that flows naturally rather than through force?","PromptLink": ""
     },
     {
         "Date": "2025-10-27",
@@ -4191,6 +4192,13 @@
     ,"2025-05-18": [{ "type": "lingo","config":{"solution": "BLESS"}},{"type": "scryptogram","config":{"target": "And now, O all ye that have imagined up unto yourselves a god who can do no miracles, I would ask of you, have all these things passed, of which I have spoken? Has the end come yet? Behold I say unto you, Nay; and God has not ceased to be a God of miracles.","hint": "Morm 9:15","cipher": "WLJZHPMQAXSOFRDVTINBKGCYUE"}}]
     ,"2025-10-12": [{ "type": "lingo","config":{"solution": "MOUNT"}},{"type": "scryptogram","config":{"target": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace;","hint": "Eph 6:14-15","cipher": "MXGAUTLYZPQWRDVESKFJNHOBCI"}}]
     ,"2025-10-13": [{ "type": "lingo","config":{"solution": "SAINT"}},{"type": "scryptogram","config":{"target": "yea, all those who were true believers in Christ took upon them, gladly, the name of Christ, or Christians as they were called, because of their belief in Christ who should come.","hint": "Alma 46:15","cipher": "KMZSWCJEXNIBDOPTUFYHRLGQVA"}}]
+    ,"2025-10-20": [{ "type": "lingo","config":{"solution": "STAND"}},{"type": "scryptogram","config":{"target": "Nevertheless, Jacob, my first-born in the wilderness, thou knowest the greatness of God; and he shall consecrate thine afflictions for thy gain.","hint": "2 Nephi 2:2","cipher": "KURGYHINQMZVECTFXOPBASJLWD"}}]
+    ,"2025-10-21": [{ "type": "lingo","config":{"solution": "HONOR"}},{"type": "scryptogram","config":{"target": "For where your treasure is, there will your heart be also.","hint": "Matthew 6:21","cipher": "BUATSQEFGHPJNDMCXYIWRZLOVK"}}]
+    ,"2025-10-22": [{ "type": "lingo","config":{"solution": "FORCE"}},{"type": "scryptogram","config":{"target": "No power or influence can or ought to be maintained by virtue of the priesthood, only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned.","hint": "D&C 121:41","cipher": "QKHLNSZFWDCGXABITUEROMYVPJ"}}]
+    ,"2025-10-23": [{ "type": "lingo","config":{"solution": "STILL"}},{"type": "scryptogram","config":{"target": "And now it came to pass that the burdens which were laid upon Alma and his brethren were made light; yea, the Lord did strengthen them,... and they did submit cheerfully and with patience to all the will of the Lord.","hint": "Mosiah 24:15","cipher": "NRYGWZPALSBCTEJDXUVOQIKHFM"}}]
+    ,"2025-10-24": [{ "type": "lingo","config":{"solution": "POISE"}},{"type": "scryptogram","config":{"target": "And we know that all things work together for good to them that love God.","hint": "Romans 8:28","cipher": "NRSZIUXVOTQFHJCLYMPGDAEWKB"}}]
+    ,"2025-10-25": [{ "type": "lingo","config":{"solution": "LOWER"}},{"type": "scryptogram","config":{"target": "And he shall go forth, suffering pains and afflictions and temptations of every kind...that he may know according to the flesh how to succor his people.","hint": "Alma 7:11-12","cipher": "IHLWAKPCMRGFDETXVUZOYBNQJS"}}]
+    ,"2025-10-26": [{ "type": "lingo","config":{"solution": "DRAWN"}},{"type": "scryptogram","config":{"target": "But it shall not be so among you: but whosoever will be great among you, let him be your minister.","hint": "Matthew 20:26","cipher": "PAQZTUYVHGXMOWKCRSFNDJIBEL"}}]
     }
 }
 
