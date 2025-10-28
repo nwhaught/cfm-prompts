@@ -3083,7 +3083,7 @@
         "Month": "November",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/44-doctrine-and-covenants-124?lang=eng",
         "Lesson": "Doctrine and Covenants124",
-        "Prompt": "Prompt for 2025-10-27"
+        "Prompt": "D&C 124:55 And again, verily I say unto you, I command you again to build a house to my name, even in this place, that you may prove yourselves unto me that ye are faithful in all things whatsoever I command you.\n\nWhy does God command the saints to build temples everywhere they went? How can we follow this pattern in our personal lives?","PromptLink": ""
     },
     {
         "Date": "2025-10-28",
@@ -4199,6 +4199,7 @@
     ,"2025-10-24": [{ "type": "lingo","config":{"solution": "POISE"}},{"type": "scryptogram","config":{"target": "And we know that all things work together for good to them that love God.","hint": "Romans 8:28","cipher": "NRSZIUXVOTQFHJCLYMPGDAEWKB"}}]
     ,"2025-10-25": [{ "type": "lingo","config":{"solution": "LOWER"}},{"type": "scryptogram","config":{"target": "And he shall go forth, suffering pains and afflictions and temptations of every kind...that he may know according to the flesh how to succor his people.","hint": "Alma 7:11-12","cipher": "IHLWAKPCMRGFDETXVUZOYBNQJS"}}]
     ,"2025-10-26": [{ "type": "lingo","config":{"solution": "DRAWN"}},{"type": "scryptogram","config":{"target": "But it shall not be so among you: but whosoever will be great among you, let him be your minister.","hint": "Matthew 20:26","cipher": "PAQZTUYVHGXMOWKCRSFNDJIBEL"}}]
+    ,"2025-10-27": [{ "type": "lingo","config":{"solution": "DWELL"}},{"type": "scryptogram","config":{"target": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?","hint": "1 Corinthians 3:16","cipher": "XLKPYVHZJIWRDAMCBGFUESNOTQ"}}]
     }
 }
 
