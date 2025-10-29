@@ -3093,7 +3093,7 @@
         "Month": "November",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/44-doctrine-and-covenants-124?lang=eng",
         "Lesson": "Doctrine and Covenants124",
-        "Prompt": "Prompt for 2025-10-28"
+        "Prompt": "D&C 124:40 And verily I say unto you, let this house be built unto my name, that I may reveal mine ordinances therein unto my people.\n\nWhy are ordinances revealed in temples rather than through other means? What is the relationship between sacred space and sacred understanding?","PromptLink": ""
     },
     {
         "Date": "2025-10-29",
@@ -4200,6 +4200,7 @@
     ,"2025-10-25": [{ "type": "lingo","config":{"solution": "LOWER"}},{"type": "scryptogram","config":{"target": "And he shall go forth, suffering pains and afflictions and temptations of every kind...that he may know according to the flesh how to succor his people.","hint": "Alma 7:11-12","cipher": "IHLWAKPCMRGFDETXVUZOYBNQJS"}}]
     ,"2025-10-26": [{ "type": "lingo","config":{"solution": "DRAWN"}},{"type": "scryptogram","config":{"target": "But it shall not be so among you: but whosoever will be great among you, let him be your minister.","hint": "Matthew 20:26","cipher": "PAQZTUYVHGXMOWKCRSFNDJIBEL"}}]
     ,"2025-10-27": [{ "type": "lingo","config":{"solution": "DWELL"}},{"type": "scryptogram","config":{"target": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?","hint": "1 Corinthians 3:16","cipher": "XLKPYVHZJIWRDAMCBGFUESNOTQ"}}]
+    ,"2025-10-28": [{ "type": "lingo","config":{"solution": "PLACE"}},{"type": "scryptogram","config":{"target": "And I, Nephi, did go into the mount oft, and I did pray oft unto the Lord; wherefore the Lord showed unto me great things.","hint": "1 Nephi 18:3","cipher": "CLKZWMAEHNSQDYRXTJVGPFUBIO"}}]
     }
 }
 
