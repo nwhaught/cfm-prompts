@@ -3443,7 +3443,8 @@
         "Month": "December",
         "Link": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/49-doctrine-and-covenants-137-138?lang=eng",
         "Lesson": "Doctrine and Covenants137-138",
-        "Prompt": "Prompt for 2025-12-02"
+        "Prompt": "D&C 137:7 All who have died without a knowledge of this gospel, who would have received it if they had been permitted to tarry, shall be heirs of the celestial kingdom of God.\n\nWhat does it mean to have a knowledge of the gospel?",
+        "PromtLink": ""
     },
     {
         "Date": "2025-12-03",
@@ -4201,6 +4202,12 @@
     ,"2025-10-26": [{ "type": "lingo","config":{"solution": "DRAWN"}},{"type": "scryptogram","config":{"target": "But it shall not be so among you: but whosoever will be great among you, let him be your minister.","hint": "Matthew 20:26","cipher": "PAQZTUYVHGXMOWKCRSFNDJIBEL"}}]
     ,"2025-10-27": [{ "type": "lingo","config":{"solution": "DWELL"}},{"type": "scryptogram","config":{"target": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?","hint": "1 Corinthians 3:16","cipher": "XLKPYVHZJIWRDAMCBGFUESNOTQ"}}]
     ,"2025-10-28": [{ "type": "lingo","config":{"solution": "PLACE"}},{"type": "scryptogram","config":{"target": "And I, Nephi, did go into the mount oft, and I did pray oft unto the Lord; wherefore the Lord showed unto me great things.","hint": "1 Nephi 18:3","cipher": "CLKZWMAEHNSQDYRXTJVGPFUBIO"}}]
+    ,"2025-12-02": [{ "type": "lingo","config":{"solution": "TARRY"}},{"type": "scryptogram","config":{"target": "and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know they mysteries of god in full.","hint": "Alma 12:10","cipher": "LKZWMAEHNSQDYRXTJVGPFUBIOC"}}]
+    ,"2025-12-03": [{ "type": "lingo","config":{"solution": "TARRY"}},{"type": "scryptogram","config":{"target": "and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know they mysteries of god in full.","hint": "Alma 12:10","cipher": "LKZWMAEHNSQDYRXTJVGPFUBIOC"}}]
+    ,"2025-12-04": [{ "type": "lingo","config":{"solution": "TARRY"}},{"type": "scryptogram","config":{"target": "and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know they mysteries of god in full.","hint": "Alma 12:10","cipher": "LKZWMAEHNSQDYRXTJVGPFUBIOC"}}]
+    ,"2025-12-05": [{ "type": "lingo","config":{"solution": "TARRY"}},{"type": "scryptogram","config":{"target": "and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know they mysteries of god in full.","hint": "Alma 12:10","cipher": "LKZWMAEHNSQDYRXTJVGPFUBIOC"}}]
+    ,"2025-12-06": [{ "type": "lingo","config":{"solution": "TARRY"}},{"type": "scryptogram","config":{"target": "and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know they mysteries of god in full.","hint": "Alma 12:10","cipher": "LKZWMAEHNSQDYRXTJVGPFUBIOC"}}]
+    ,"2025-12-07": [{ "type": "lingo","config":{"solution": "TARRY"}},{"type": "scryptogram","config":{"target": "and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know they mysteries of god in full.","hint": "Alma 12:10","cipher": "LKZWMAEHNSQDYRXTJVGPFUBIOC"}}]
     }
 }
 
